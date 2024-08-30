@@ -9,3 +9,6 @@ build/
 
 *.zip
 *.wav
+.venv/
+melo/data/
+melo/logs/
